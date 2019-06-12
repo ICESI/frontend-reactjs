@@ -1,4 +1,4 @@
-# www-gatsby
+# Static website with gatsby
 
 ## Setup environment
 
