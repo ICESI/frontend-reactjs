@@ -43,3 +43,10 @@ ls public
 surge public/
 ```
 
+## References
+
+* https://reacttraining.com/blog/gatsby-mdx-blog/
+* https://www.gatsbyjs.org/starters?v=2
+* https://www.orangejellyfish.com/blog/introducing-our-gatsby-starter-kits/
+* https://theleakycauldronblog.com/blog/making-a-marketing-website-using-gatsby-starter-business/
+* https://daveceddia.com/start-blog-gatsby-netlify/
