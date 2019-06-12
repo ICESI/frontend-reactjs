@@ -31,3 +31,15 @@ Run a test
 ```
 curl http://localhost:8000
 ```
+
+## Deploy
+
+Run the following commands to upload your website to a surge account/domain and open the result url (domain) in a web browser
+```
+npm install --global surge
+surge
+gatsby build
+ls public
+surge public/
+```
+
